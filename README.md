@@ -69,3 +69,5 @@ curl http://localhost:5000/rng
 curl "http://localhost:5000/measure?theta=1.2"
 # {"theta":1.2,"result":"Zero"} or {"theta":1.2,"result":"One"}
 ```
+
+Maybe I'll add a docker container soon.
