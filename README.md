@@ -19,7 +19,8 @@ Minimal API built with **ASP.NET Core (.NET 8)** that exposes operations written
 - Templates are **not required** to build/run this repo.  
   Only if you want to create new Q# projects:  
   ```bash
-  dotnet new install Microsoft.Quantum.ProjectTemplates```
+  dotnet new install Microsoft.Quantum.ProjectTemplates
+  ```
 
 ## Project Structure
 ```
