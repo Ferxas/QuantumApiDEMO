@@ -1,0 +1,11 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+.vs/
+# VS Code
+.vscode/
+# Logs
+*.log
